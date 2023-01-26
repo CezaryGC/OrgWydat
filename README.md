@@ -1,2 +1,0 @@
-# OrgWydat
-projekt na programowanie
